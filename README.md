@@ -1,0 +1,1 @@
+GenshinImpac_CardPool
