@@ -1,15 +1,15 @@
 |　　| 火 | 10 | 水 | 7 | 风 | 6 | 雷 | 9 | 草 | 草 | 冰 | 10 | 岩 | 7 |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|剑　|||![神理绫人](/img/神理绫人.jpg)||![琴](/img/琴.jpg)|![枫原万叶](/img/枫原万叶.jpg)|![刻晴](/img/刻晴.jpg)||||![七七](/img/七七.jpg)|![神里绫华](/img/神里绫华.jpg)|![阿贝多](/img/阿贝多.jpg)||
-|11|![班尼特](/img/班尼特.jpg)||![行秋](/img/行秋.jpg)||||![久岐忍](/img/久岐忍.jpg)||||![凯亚](/img/凯亚.jpg)||||
-|枪　|![胡桃](/img/胡桃.jpg)||||![魈](/img/魈.jpg)||![雷电将军](/img/雷电将军.jpg)||||![申鹤](/img/申鹤.jpg)||![钟离](/img/钟离.jpg)||
-|9|![香菱](/img/香菱.jpg)|![托马](/img/托马.jpg)|||||||||![罗莎利亚](/img/罗莎利亚.jpg)||![云堇](/img/云堇.jpg)||
-|弓　|![肖宫](/img/肖宫.jpg)||![达达利亚](/img/达达利亚.jpg)|![夜兰](/img/夜兰.jpg)|![温蒂](/img/温蒂.jpg)||||||![甘雨](/img/甘雨.png)|![埃洛伊](/img/埃洛伊.jpg)|||
-|11|![安柏](/img/安柏.jpg)||||||![菲谢尔](/img/菲谢尔.jpg)|![九条裟罗](/img/九条裟罗.jpg)|||![迪奥娜](/img/迪奥娜.jpg)||![五郎](/img/五郎.jpg)||
-|大剑|![迪卢克](/img/迪卢克.jpg)||||||||||![悠菈](/img/悠菈.jpg)||![荒泷一斗](/img/荒泷一斗.jpg)||
-|9|![辛焱](/img/辛焱.jpg)||||![早柚](/img/早柚.jpg)||![雷泽](/img/雷泽.jpg)|![北斗](/img/北斗.jpg)|||![重云](/img/重云.jpg)||![诺艾尔](/img/诺艾尔.jpg)||
-|法器|![可莉](/img/可莉.jpg)||![莫娜](/img/莫娜.jpg)|![珊瑚宫心海](/img/珊瑚宫心海.png)|||![八重神子](/img/八重神子.jpg)||||||||
-|9|![烟绯](/img/烟绯.jpg)||![芭芭拉](/img/芭芭拉.png)||![砂糖](/img/砂糖.jpg)||![丽莎](/img/丽莎.jpg)||||||![凝光](/img/凝光.jpg)||
+|剑　|||<img src="/img/神理绫人.jpg" alt="神理绫人" width=60>||<img src="/img/琴.jpg" alt="琴" width=60>|<img src="/img/枫原万叶.jpg" alt="枫原万叶" width=60>|<img src="/img/刻晴.jpg" alt="刻晴" width=60>||||<img src="/img/七七.jpg" alt="七七" width=60>|<img src="/img/神里绫华.jpg" alt="神里绫华" width=60>|<img src="/img/阿贝多.jpg" alt="阿贝多" width=60>||
+|11|<img src="/img/班尼特.jpg" alt="班尼特" width=60>||<img src="/img/行秋.jpg" alt="行秋" width=60>||||<img src="/img/久岐忍.jpg" alt="久岐忍" width=60>||||<img src="/img/凯亚.jpg" alt="凯亚" width=60>||||
+|枪　|<img src="/img/胡桃.jpg" alt="胡桃" width=60>||||<img src="/img/魈.jpg" alt="魈" width=60>||<img src="/img/雷电将军.jpg" alt="雷电将军" width=60>||||<img src="/img/申鹤.jpg" alt="申鹤" width=60>||<img src="/img/钟离.jpg" alt="钟离" width=60>||
+|9|<img src="/img/香菱.jpg" alt="香菱" width=60>|<img src="/img/托马.jpg" alt="托马" width=60>|||||||||<img src="/img/罗莎利亚.jpg" alt="罗莎利亚" width=60>||<img src="/img/云堇.jpg" alt="云堇" width=60>||
+|弓　|<img src="/img/肖宫.jpg" alt="肖宫" width=60>||<img src="/img/达达利亚.jpg" alt="达达利亚" width=60>|<img src="/img/夜兰.jpg" alt="夜兰" width=60>|<img src="/img/温蒂.jpg" alt="温蒂" width=60>||||||<img src="/img/甘雨.png" alt="甘雨" width=60>|<img src="/img/埃洛伊.jpg" alt="埃洛伊" width=60>|||
+|11|<img src="/img/安柏.jpg" alt="安柏" width=60>||||||<img src="/img/菲谢尔.jpg" alt="菲谢尔" width=60>|<img src="/img/九条裟罗.jpg" alt="九条裟罗" width=60>|||<img src="/img/迪奥娜.jpg" alt="迪奥娜" width=60>||<img src="/img/五郎.jpg" alt="五郎" width=60>||
+|大剑|<img src="/img/迪卢克.jpg" alt="迪卢克" width=60>||||||||||<img src="/img/悠菈.jpg" alt="悠菈" width=60>||<img src="/img/荒泷一斗.jpg" alt="荒泷一斗" width=60>||
+|9|<img src="/img/辛焱.jpg" alt="辛焱" width=60>||||<img src="/img/早柚.jpg" alt="早柚" width=60>||<img src="/img/雷泽.jpg" alt="雷泽" width=60>|<img src="/img/北斗.jpg" alt="北斗" width=60>|||<img src="/img/重云.jpg" alt="重云" width=60>||<img src="/img/诺艾尔.jpg" alt="诺艾尔" width=60>||
+|法器|<img src="/img/可莉.jpg" alt="可莉" width=60>||<img src="/img/莫娜.jpg" alt="莫娜" width=60>|<img src="/img/珊瑚宫心海.png" alt="珊瑚宫心海" width=60>|||<img src="/img/八重神子.jpg" alt="八重神子" width=60>||||||||
+|9|<img src="/img/烟绯.jpg" alt="烟绯" width=60>||<img src="/img/芭芭拉.png" alt="芭芭拉" width=60>||<img src="/img/砂糖.jpg" alt="砂糖" width=60>||<img src="/img/丽莎.jpg" alt="丽莎" width=60>||||||<img src="/img/凝光.jpg" alt="凝光" width=60>||
 |　　|||||||||||||||
 
 武器
