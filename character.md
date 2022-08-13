@@ -9,8 +9,8 @@
 |大剑|<img src="/img/迪卢克.jpg" alt="迪卢克" width=60>||||||||||<img src="/img/悠菈.jpg" alt="悠菈" width=60>||<img src="/img/荒泷一斗.jpg" alt="荒泷一斗" width=60>||
 |9|<img src="/img/辛焱.jpg" alt="辛焱" width=60>||||<img src="/img/早柚.jpg" alt="早柚" width=60>||<img src="/img/雷泽.jpg" alt="雷泽" width=60>|<img src="/img/北斗.jpg" alt="北斗" width=60>|||<img src="/img/重云.jpg" alt="重云" width=60>||<img src="/img/诺艾尔.jpg" alt="诺艾尔" width=60>||
 |法器|<img src="/img/可莉.jpg" alt="可莉" width=60>||<img src="/img/莫娜.jpg" alt="莫娜" width=60>|<img src="/img/珊瑚宫心海.png" alt="珊瑚宫心海" width=60>|||<img src="/img/八重神子.jpg" alt="八重神子" width=60>||||||||
-|11|<img src="/img/烟绯.jpg" alt="烟绯" width=60>||<img src="/img/芭芭拉.png" alt="芭芭拉" width=60>||<img src="/img/砂糖.jpg" alt="砂糖" width=60>|<img src="/img/鹿野院平藏.jpg" alt="鹿野院平藏" width=60>|<img src="/img/丽莎.jpg" alt="丽莎" width=60>||<img src="/img/提纳里.png" alt="提纳里" width=60>||||<img src="/img/凝光.jpg" alt="凝光" width=60>||
-|　　|||||||<img src="/img/多莉.png" alt="多莉" width=60>||||||||
+|11|<img src="/img/烟绯.jpg" alt="烟绯" width=60>||<img src="/img/芭芭拉.png" alt="芭芭拉" width=60>||<img src="/img/砂糖.jpg" alt="砂糖" width=60>|<img src="/img/鹿野院平藏.jpg" alt="鹿野院平藏" width=60>|<img src="/img/丽莎.jpg" alt="丽莎" width=60>|<img src="/img/多莉.png" alt="多莉" width=60>|<img src="/img/提纳里.png" alt="提纳里" width=60>||||<img src="/img/凝光.jpg" alt="凝光" width=60>||
+|　　|||||||||||||||
 
 武器
 
