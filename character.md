@@ -1,5 +1,5 @@
 |　　| 火 | 10 | 水 | 9 | 风 | 7 | 雷 | 11 || 草 | 2 | 冰 | 10 | 岩 | 7 |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |剑　|||<img src="/img/神理绫人.jpg" alt="神理绫人" width=60>||<img src="/img/琴.jpg" alt="琴" width=60>|<img src="/img/枫原万叶.jpg" alt="枫原万叶" width=60>|<img src="/img/刻晴.jpg" alt="刻晴" width=60>|||||<img src="/img/七七.jpg" alt="七七" width=60>|<img src="/img/神里绫华.jpg" alt="神里绫华" width=60>|<img src="/img/阿贝多.jpg" alt="阿贝多" width=60>||
 |11|<img src="/img/班尼特.jpg" alt="班尼特" width=60>||<img src="/img/行秋.jpg" alt="行秋" width=60>||||<img src="/img/久岐忍.jpg" alt="久岐忍" width=60>|||||<img src="/img/凯亚.jpg" alt="凯亚" width=60>||||
 |枪　|<img src="/img/胡桃.jpg" alt="胡桃" width=60>||||<img src="/img/魈.jpg" alt="魈" width=60>||<img src="/img/雷电将军.jpg" alt="雷电将军" width=60>|||||<img src="/img/申鹤.jpg" alt="申鹤" width=60>||<img src="/img/钟离.jpg" alt="钟离" width=60>||
