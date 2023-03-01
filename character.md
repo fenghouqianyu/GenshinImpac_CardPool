@@ -1,4 +1,4 @@
-|　　| 火 | 11 | 水 | 9 | 风 | 9 | 雷 | 11 || 草 | 5 | 冰 | 12 | 岩 | 7 |
+|　　| 火 | 11 | 水 | 9 | 风 | 9 | 雷 | 11 || 草 | 7 | 冰 | 12 | 岩 | 7 |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |剑　|||<img src="/img/神理绫人.jpg" alt="神理绫人" width=60>|<img src="/img/妮露.jpg" alt="妮露" width=60>|<img src="/img/琴.jpg" alt="琴" width=60>|<img src="/img/枫原万叶.jpg" alt="枫原万叶" width=60>|<img src="/img/刻晴.jpg" alt="刻晴" width=60>|||<img src="/img/艾尔海森.jpg" alt="艾尔海森" width=60>||<img src="/img/七七.jpg" alt="七七" width=60>|<img src="/img/神里绫华.jpg" alt="神里绫华" width=60>|<img src="/img/阿贝多.jpg" alt="阿贝多" width=60>||
 |14|<img src="/img/班尼特.jpg" alt="班尼特" width=60>||<img src="/img/行秋.jpg" alt="行秋" width=60>||||<img src="/img/久岐忍.jpg" alt="久岐忍" width=60>|||||<img src="/img/凯亚.jpg" alt="凯亚" width=60>|<img src="/img/莱依拉.jpg" alt="莱依拉" width=60>|||
@@ -10,7 +10,7 @@
 |11|<img src="/img/辛焱.jpg" alt="辛焱" width=60>||||<img src="/img/早柚.jpg" alt="早柚" width=60>||<img src="/img/雷泽.jpg" alt="雷泽" width=60>|<img src="/img/北斗.jpg" alt="北斗" width=60>|<img src="/img/多莉.png" alt="多莉" width=60>|||<img src="/img/重云.jpg" alt="重云" width=60>||<img src="/img/诺艾尔.jpg" alt="诺艾尔" width=60>||
 |法器|<img src="/img/可莉.jpg" alt="可莉" width=60>||<img src="/img/莫娜.jpg" alt="莫娜" width=60>|<img src="/img/珊瑚宫心海.png" alt="珊瑚宫心海" width=60>|<img src="/img/流浪者.jpg" alt="流浪者" width=60>||<img src="/img/八重神子.jpg" alt="八重神子" width=60>|||<img src="/img/纳西妲.jpg" alt="纳西妲" width=60>||||||
 |12|<img src="/img/烟绯.jpg" alt="烟绯" width=60>||<img src="/img/芭芭拉.png" alt="芭芭拉" width=60>||<img src="/img/砂糖.jpg" alt="砂糖" width=60>|<img src="/img/鹿野院平藏.jpg" alt="鹿野院平藏" width=60>|<img src="/img/丽莎.jpg" alt="丽莎" width=60>|||||||<img src="/img/凝光.jpg" alt="凝光" width=60>||
-|　　|||||||||||||||
+|　　|||||||||<img src="/img/卡维.jpg" alt="卡维" width=60>|<img src="/img/白术.jpg" alt="白术" width=60>|||||
 
 武器
 
