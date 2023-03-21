@@ -64,8 +64,8 @@ GenshinImpac_CardPool
 |夜兰|B池|<img src="/pool/3.4-4.jpg" alt="3.4-4" width=50>|-|若水|||
 |迪希雅|230301|<img src="/pool/3.5-1.jpg" alt="3.5-1" width=50>|-|苇海信标||3.5 风花的呼吸|
 |赛诺|B池|<img src="/pool/3.5-2.jpg" alt="3.5-2" width=50>|-||赤沙之杖| |
-|申鹤|230322||-||||
-|神里绫华|B池||-||| |
+|申鹤|230322|<img src="/pool/3.5-3.jpg" alt="3.5-3" width=50>|-||息灾||
+|神里绫华|B池|<img src="/pool/3.5-4.jpg" alt="3.5-4" width=50>|-|雾切之回光|| |
 ||230412||-|||3.6 |
 
 复刻状况
