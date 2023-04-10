@@ -100,3 +100,4 @@ GenshinImpac_CardPool
 |纳西妲|29|
 |流浪者||
 |艾尔海森||
+|白术||
