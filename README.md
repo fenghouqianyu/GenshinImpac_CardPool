@@ -68,8 +68,8 @@ GenshinImpac_CardPool
 |神里绫华|B池|<img src="/pool/3.5-4.jpg" alt="3.5-4" width=50>|-|雾切之回光|| |
 |纳西妲|230412|<img src="/pool/3.6-1.jpg" alt="3.6-1" width=50>|-||千夜浮梦|3.6 盛典与慧业|
 |妮露|B池|<img src="/pool/3.6-2.jpg" alt="3.6-2" width=50>|-|圣显之钥|||
-|白术|230503|<img src="/pool/3.6-3.jpg" alt="3.6-3" width=50>|-||||
-|甘雨|B池|<img src="/pool/3.6-4.jpg" alt="3.6-4" width=50>|-||||
+|白术|230503|<img src="/pool/3.6-3.jpg" alt="3.6-3" width=50>|-||碧落之珑||
+|甘雨|B池|<img src="/pool/3.6-4.jpg" alt="3.6-4" width=50>|-|阿莫斯之弓|||
 |肖宫|230524||-|||3.7 决斗！召唤之巅！|
 |八重神子|B池||-||||
 |枫原万叶|230614||-||||
